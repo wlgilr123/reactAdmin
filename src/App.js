@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          汪澜是大美女，是大胸美女，屁股也大
+          汪澜是大美女，李航是个丑人人
         </a>
       </header>
     </div>
